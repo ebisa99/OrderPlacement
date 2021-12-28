@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+13,Galana,MN,30.00,wood,120,5.15,4.75,618.00,570.00,356.40,1544.40

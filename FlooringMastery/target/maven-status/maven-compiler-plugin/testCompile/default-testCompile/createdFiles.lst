@@ -1,0 +1,8 @@
+com\ig\flooringmastery\dao\OrderDaoFileImplTest.class
+com\ig\flooringmastery\service\TaxDaoStubImpl.class
+com\ig\flooringmastery\service\FlooringServiceImplTest.class
+com\ig\flooringmastery\service\OrderDaoStubImpl.class
+com\ig\flooringmastery\dao\ProductDaoFileImplTest.class
+com\ig\flooringmastery\service\ProductDaoStubImpl.class
+com\ig\flooringmastery\dao\TaxDaoFileImplTest.class
+com\ig\flooringmastery\dao\OrderDaoStubImpl.class

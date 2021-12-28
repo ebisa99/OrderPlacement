@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+9,Tolani,CA,25.00,tile,124.00,3.50,4.15,434.0000,514.6000,237.15,1185.75

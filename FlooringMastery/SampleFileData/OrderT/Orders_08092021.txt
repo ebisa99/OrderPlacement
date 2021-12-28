@@ -1,0 +1,3 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Ibsa,CA,5.25,Wood,120,11,13,1320.00,1560.00,151.20,3031.20
+2,Tolani,TX,4.25,Tile,123,10,12,1230.00,1476.00,115.01,2821.01

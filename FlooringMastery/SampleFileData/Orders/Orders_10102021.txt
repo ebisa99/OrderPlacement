@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+27,Gilo,CA,25.00,wood,300,5.15,4.75,1545.00,1425.00,742.50,3712.50

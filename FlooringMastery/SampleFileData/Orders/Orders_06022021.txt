@@ -1,0 +1,8 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+17,Ibsa,CA,25.00,carpet,213,2.25,2.10,479.25,447.30,231.64,1158.19
+21,Ibsa,TX,4.45,tile,130,3.50,4.15,455.00,539.50,44.26,1038.76
+23,new Person,TX,4.45,tile,125,3.50,4.15,437.50,518.75,42.55,998.80
+24,someone,CA,25.00,laminate,213,1.75,2.10,372.75,447.30,205.01,1025.06
+25,more customer,WA,9.25,carpet,100,2.25,2.10,225.00,210.00,40.24,475.24
+26,name,TX,4.45,tile,234,3.50,4.15,819.00,971.10,79.66,1869.76
+12,chala inc.,TX,4.45,laminate,232,1.75,2.10,406.00,487.20,39.75,932.95
